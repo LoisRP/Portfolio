@@ -28,6 +28,15 @@ I cannot include links to any documentation done at my employment since 2006. Ho
 
 ##Code samples
 I cannot include any from work, but I can include some from courses and that I have done for fun.
+
+| Language      | Description                      | Download  |
+| ------------- |----------------------            | ------    |
+| JavaScript    | Recognize musical pitches (game) |Play the game:  See the repository: https://github.com/LoisRP/learn-pitches  |
+| Java     | Game      |    |
+| Python |       |     |
+
+(will fix up table later)
+
 ###JavaScript
 Learn Pitches
 This simple game encourages you to recognize different musical pitches. 
