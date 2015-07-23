@@ -19,16 +19,18 @@ I am including links to books that I have authored that are available on Amazon,
 * http://www.amazon.com/Excel-2000-Intermediate-Lois-Patterson/dp/1582640831
 
 ##Documentation samples (pre-2006)
-I cannot include links to any documentation done at my employment since 2006. However, I have older documents available here [zip file]():
+I cannot include links to any documentation done at my employment since 2006. However, I have older documents available here [zip file](https://drive.google.com/file/d/0ByL12B5mpwZzclN2ZjA1X3ZJbmc/view?usp=sharing):
 
 ##Code samples
-I cannot include any from work, but I can include some from courses and that I have done for fun.
+I cannot include any from work, but I include a few code samples from courses and that I have done for fun.
 
 | Language      | Description          | Source|
 | ------------- |----------------------| ------|
-| JavaScript    | Learn to recognize musical pitches (game) |[Play the game](https://6eb8e7b0de318d24d1d77d2ab149f904832805b9.googledrive.com/host/0ByL12B5mpwZzRy1QdGRYTjA5YzA/website/index.html)  [Repo:](https://github.com/LoisRP/learn-pitches)|
-| Java     | Battle of the Juggling Objects (game for Java course)|[Repo:](https://github.com/LoisRP/A3-COMP1451)  |
-| Python |  Database course assignment     |  [Repo:](https://github.com/LoisRP/Simple-Python) |
+| JavaScript    | Learn to recognize musical pitches (game) |[Play the game](https://6eb8e7b0de318d24d1d77d2ab149f904832805b9.googledrive.com/host/0ByL12B5mpwZzRy1QdGRYTjA5YzA/website/index.html)
+
+[Repo](https://github.com/LoisRP/learn-pitches)|
+| Java     | Battle of the Juggling Objects (game for Java course)|[Repo](https://github.com/LoisRP/A3-COMP1451)  |
+| Python |  Database course assignment     |  [Repo](https://github.com/LoisRP/Simple-Python) |
 
 ##Presentations
 ###API Documentation: Learn by Example 
