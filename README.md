@@ -40,3 +40,6 @@ I cannot include any from work, but I include a few code samples from courses an
 ###Mathematical content in documentation 
 (November 2008 at DITA Europe in Munich)
 * http://www.slideshare.net/loisbc/mathematical-content-in-documentation-dita-europe-2008
+
+###LinkedIn
+[Profile on LinkedIn](https://www.linkedin.com/in/loispatterson)
