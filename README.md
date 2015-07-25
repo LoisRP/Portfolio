@@ -10,6 +10,7 @@ Frequent contributor to TECHWHIRL, a technical communication portal:
 
 ##Blog
 http://anapiaday.tumblr.com
+[An API a Day, Facebook page](https://www.facebook.com/anapiaday)
 
 ##Books
 I am including links to books that I have authored that are available on Amazon, but I have also written a couple others.
