@@ -9,7 +9,8 @@ Frequent contributor to TECHWHIRL, a technical communication portal:
 * http://tinyurl.com/LoisAPIarticle (on DropBox)
 
 ##Blog
-http://anapiaday.tumblr.com
+[An API a Day, Tumblr](http://anapiaday.tumblr.com)
+
 [An API a Day, Facebook page](https://www.facebook.com/anapiaday)
 
 ##Books
