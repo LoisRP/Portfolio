@@ -33,7 +33,7 @@ I cannot include any from work, but I include a few code samples from courses an
 | Python |  Database course assignment     |  [Repo](https://github.com/LoisRP/Simple-Python)|
 
 ## Presentations
-###API Documentation: Learn by Example 
+### API Documentation: Learn by Example 
 (Latest version from the Society for Technical Communication Summit in June 2015, but also presented at Write the Docs! in Portland in May 2014, and at soap! in Krakow in October 2014)
 * http://www.slideshare.net/loisbc/stc-summit-2015-api-documentation-an-examplebased-approach
 
