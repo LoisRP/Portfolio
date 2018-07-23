@@ -1,5 +1,5 @@
 # Portfolio
-Limited collection of items I have authored related to technical communication and programming. No items from full-time employment after 2006, due to NDAs.
+Limited collection of items I have authored related to technical communication and programming. No items from full-time employment between 2006-2017, due to NDAs. 
 
 ## Articles
 Frequent contributor to TECHWHIRL, a technical communication portal:
@@ -19,6 +19,10 @@ I am including links to books that I have authored that are available on Amazon,
 * http://www.amazon.com/Teach-Yourself-Microsoft-Excel-Hours/dp/067231116X
 * http://www.amazon.com/Using-Html-Lois-R-Patterson/dp/0789714507/
 * http://www.amazon.com/Excel-2000-Intermediate-Lois-Patterson/dp/1582640831
+
+## Documentation samples (at Amazon Alexa, 2017-present)
+
+I have worked on many of the topics available from [Alexa Skills Kit developer docs](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html). In addition, I have worked on other topics for a limited audience.  
 
 ## Documentation samples (pre-2006)
 I cannot include links to any documentation done at my employment since 2006. However, I have older documents available in a [zip file](https://drive.google.com/file/d/0ByL12B5mpwZzclN2ZjA1X3ZJbmc/view?usp=sharing).
