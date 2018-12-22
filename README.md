@@ -25,7 +25,7 @@ I am including links to books that I have authored that are available on Amazon,
 I have worked on many of the topics available from [Alexa Skills Kit developer docs](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html). In addition, I have worked on other topics for a limited audience.  
 
 ## Documentation samples (pre-2006)
-I cannot include links to any documentation done at my employment since 2006. However, I have older documents available in a [zip file](https://drive.google.com/file/d/0ByL12B5mpwZzclN2ZjA1X3ZJbmc/view?usp=sharing).
+I cannot include links to any documentation done at my employment from 2006-2017 because of NDAs. However, I have older documents available in a [zip file](https://drive.google.com/file/d/0ByL12B5mpwZzclN2ZjA1X3ZJbmc/view?usp=sharing).
 
 ## Code samples
 I cannot include any from work, but I include a few code samples from courses and that I have done for fun.
