@@ -6,7 +6,7 @@ Frequent contributor to TECHWHIRL, a technical communication portal:
 * http://techwhirl.com/author/loisrpatterson/
 
 "What factors contribute to good API documentation?", STC Intercom (September 2014)
-* [PDF on DropBox](https://www.dropbox.com/s/xfg6spf77ms9oiz/STC%20Intercom%20Sept%202014%E2%80%94API%20documentation.pdf?dl=0)
+* [PDF on DropBox](https://www.dropbox.com/s/bucirvtlh5h0dwk/What%20Factors%20Contribute%20to%20Good%20API%20Documentation_%20-%20Intercom.pdf?dl=0)
 
 ## Blog
 [An API a Day, Tumblr](http://anapiaday.tumblr.com)
