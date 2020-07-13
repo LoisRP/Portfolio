@@ -32,7 +32,7 @@ I cannot include any from work, but I include a few code samples from courses an
 
 | Language      | Description          | Source|
 | ------------- |----------------------| ------|
-| JavaScript    | Learn to recognize musical pitches (game) |You can [play the game](https://6eb8e7b0de318d24d1d77d2ab149f904832805b9.googledrive.com/host/0ByL12B5mpwZzRy1QdGRYTjA5YzA/website/index.html) or browse the [Repo](https://github.com/LoisRP/learn-pitches)|
+| JavaScript    | Learn to recognize musical pitches (game) |You can browse the [Repo](https://github.com/LoisRP/learn-pitches)|
 | Java     | Battle of the Juggling Objects (game for Java course)|[Repo](https://github.com/LoisRP/A3-COMP1451)|
 | Python |  Database course assignment     |  [Repo](https://github.com/LoisRP/Simple-Python)|
 
