@@ -2,7 +2,7 @@
 Limited collection of items I have authored related to technical communication and programming. No items from full-time employment between 2006-2017, due to NDAs. 
 
 ## Articles
-Frequent contributor to TECHWHIRL, a technical communication portal. See my articles there:
+Past contributor to TECHWHIRL, a technical communication portal. See my articles there:
 * http://techwhirl.com/author/loisrpatterson/
 
 "What factors contribute to good API documentation?", STC Intercom (September 2014). See:
