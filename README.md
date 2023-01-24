@@ -5,11 +5,11 @@ Limited collection of items I have authored related to technical communication a
 Frequent contributor to TECHWHIRL, a technical communication portal:
 * http://techwhirl.com/author/loisrpatterson/
 
-"What factors contribute to good API documentation?", STC Intercom (September 2014)
+"What factors contribute to good API documentation?", STC Intercom (September 2014). See PDF:
 * [PDF on DropBox](https://www.dropbox.com/s/bucirvtlh5h0dwk/What%20Factors%20Contribute%20to%20Good%20API%20Documentation_%20-%20Intercom.pdf?dl=0)
 
 ## Books
-I am including links to books that I have authored that are available on Amazon, but I have also written a couple others.
+I am listing links to books that I have authored that are available on Amazon, but I have also written a couple others.
 
 * http://www.amazon.com/Teach-Yourself-Microsoft-Excel-Hours/dp/067231116X
 * http://www.amazon.com/Using-Html-Lois-R-Patterson/dp/0789714507/
